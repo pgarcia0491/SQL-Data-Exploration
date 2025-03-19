@@ -23,7 +23,9 @@ Department with highest turnover which can then be further analyzed to understan
 Simple sales analysis, the insights can then be exported and used to create a dashboard.
 
 Month on month sales changes
+
 Sales by store location which can then be compared to understand the best locatiions
+
 Average Daily sales
 
 

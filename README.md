@@ -3,6 +3,7 @@
 ## Projects
 
 HR analysis
+
 Coffee Shop Sales
 
 # HR Analysis Project
